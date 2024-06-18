@@ -14,7 +14,6 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/adarsa-dev-49b086190/",
 
   insta: "https://www.instagram.com/adarsa.parasar/",
-  
 };
 
 export const skills = [
@@ -31,7 +30,7 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-     
+
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -61,8 +60,6 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
-     
-     
     ],
   },
   {
@@ -131,7 +128,6 @@ export const experiences = [
     company: "Leher Pvt. Ltd.",
     date: "Oct 2022 - March 2023",
   },
-
 ];
 
 export const projects = [
@@ -141,17 +137,14 @@ export const projects = [
 
     description:
       "It is a dynamic e-commerce web application that offers users an immersive online shopping venture.It provides features such as user account management,Wishlist,product browsing, and secure transactions.",
-    image:
-      "https://github.com/adarsaparasar/ShopPlus/blob/main/client/public/images/banner1.jpg",
+    image: "",
 
     category: "web app",
     github: "https://github.com/adarsaparasar/ShopPlus",
-   
   },
-  
 ];
 
 export const TimeLineData = [
   { year: 2022 - 23, text: "Started as an intern" },
-  {year: 23-24, text: "Aspiring and exploring"}
+  { year: 23 - 24, text: "Aspiring and exploring" },
 ];
