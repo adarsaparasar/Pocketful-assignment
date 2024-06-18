@@ -1,3 +1,4 @@
+import Banner from './4739023.jpg';
 export const Bio = {
   name: "Adarsa Behera",
   roles: [
@@ -137,7 +138,7 @@ export const projects = [
 
     description:
       "It is a dynamic e-commerce web application that offers users an immersive online shopping venture.It provides features such as user account management,Wishlist,product browsing, and secure transactions.",
-    image: "",
+    image: {Banner},
 
     category: "web app",
     github: "https://github.com/adarsaparasar/ShopPlus",
