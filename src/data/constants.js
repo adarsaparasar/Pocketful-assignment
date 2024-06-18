@@ -1,4 +1,3 @@
-import Banner from './4739023.jpg';
 export const Bio = {
   name: "Adarsa Behera",
   roles: [
@@ -138,7 +137,8 @@ export const projects = [
 
     description:
       "It is a dynamic e-commerce web application that offers users an immersive online shopping venture.It provides features such as user account management,Wishlist,product browsing, and secure transactions.",
-    image: {Banner},
+    image:
+      "https://media.licdn.com/dms/image/D562DAQEJkoMdwV_xsQ/profile-treasury-image-shrink_800_800/0/1716209623528?e=1719306000&v=beta&t=hNsfzNO8EV6To7aFkHq1_odBol8yP18j8DEU-SlvSX4",
 
     category: "web app",
     github: "https://github.com/adarsaparasar/ShopPlus",
