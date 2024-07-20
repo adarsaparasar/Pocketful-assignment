@@ -10,7 +10,7 @@ export const Bio = {
     "Highly motivated and enthusiastic developer, passionate about application development. Possess a solid foundation in full-stack development, which includes MongoDB, Node.js, Express.js for back-end and   Reactjs, HTML, CSS & JavaScript for front-end.With a keen eye for detail, I am adept at studying system flow, data usage, and work processes, and eager to apply this knowledge in alignment with the software development lifecycle.Seeking to leverage my skills and experience to contribute to yours dynamic team.",
   github: "https://github.com/adarsaparasar",
   resume:
-    "https://docs.google.com/document/d/1YuoKgA1xjMJgZ7HirpwGGaWOhhlytZIc/edit",
+    "https://drive.google.com/file/d/1glHUT5d3HE95q_GRBrIjuyKi-BVb4DBJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adarsa-dev-49b086190/",
 
   insta: "https://www.instagram.com/adarsa.parasar/",
